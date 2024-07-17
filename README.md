@@ -1,7 +1,7 @@
-### Olá! Eu sou Airton Souza 👋
+### Hi Lucas Here / Lucas aqui! 👋
 <br/>
 
-![Airton Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerr4z&show_icons=true&theme=chartreuse-dark)
+![Lucas Ferr4z GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerr4z&show_icons=true&theme=chartreuse-dark)
 
 ## Tecnologias que eu uso no meu dia
 
