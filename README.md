@@ -18,8 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/LucasFerr4z/hii)
 
-![snake gif](https://github.com/LucasFerr4z/LucasFerr4z/blob/output/github-contribution-grid-snake.svg)
-
 ## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferraz-07021130b/)
