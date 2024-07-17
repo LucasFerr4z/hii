@@ -1,4 +1,4 @@
-### Hi Lucas Here / Lucas aqui! 👋
+### Ohayo! Lucas aqui! 👋
 <br/>
 
 ![Lucas Ferr4z GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerr4z&show_icons=true&theme=chartreuse-dark)
