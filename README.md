@@ -16,7 +16,7 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/LucasFerr4z/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/LucasFerr4z/hii)
 
 ![snake gif](https://github.com/LucasFerr4z/LucasFerr4z/blob/output/github-contribution-grid-snake.svg)
 
