@@ -1,7 +1,7 @@
 ### Olá! Eu sou Airton Souza 👋
 <br/>
 
-![Airton Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=airtonloureiro&show_icons=true&theme=chartreuse-dark)
+![Airton Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerr4z&show_icons=true&theme=chartreuse-dark)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,11 +16,11 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/airtonloureiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/LucasFerr4z/github-readme-stats)
 
-![snake gif](https://github.com/airtonloureiro/airtonloureiro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LucasFerr4z/LucasFerr4z/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-souza-b79144202/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airkun.2014@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferraz-07021130b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.lucasferrazsilva@gmail.com)
